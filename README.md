@@ -1,8 +1,14 @@
-# cinepi-cad-models
-repository of CAD / 3D files for CinePI Camera project. 
+![cp_cad_banner](https://github.com/cinepi/cinepi-cad-models/assets/123136472/c2f9f1bb-7fb3-4743-9e1e-f1385bf547ef)
+*Repository of CAD / 3D files for CinePI Camera project.* 
 
-## CinePI V2 CAD Models Link: https://github.com/schoolpost/CinePI/tree/main/hardware/enclosure
+# Designs
+## CinePI V2
+- [Thingiverse](https://www.thingiverse.com/thing:6482659)
 
-## CineMate CAD Models Link: https://www.tinkercad.com/things/eNhTTYdgOM0 , https://www.thingiverse.com/thing:6265068
+## CineMate 
+- [Tinkercad](https://www.tinkercad.com/things/eNhTTYdgOM0)
 
-## CinePI Komodo Models Link: https://www.thingiverse.com/thing:6366410
+- [Thingiverse](https://www.thingiverse.com/thing:6265068)
+
+## CinePI Komodo 
+- [Thingiverse](https://www.thingiverse.com/thing:6366410)
